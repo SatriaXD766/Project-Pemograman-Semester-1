@@ -2,12 +2,12 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=850&height=130&lines=Si+Anak+Informatika+%F0%9F%92%BB+Satria+Bagas+Sejati;Ngoding+Dari+Nol%2C+Mimpi+Setinggi+Langit+%F0%9F%9A%80;Welcome+to+My+Semester+1+Journey+%F0%9F%94%A5;Slay+Every+Bug+%2C+Build+The+Future+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=850&height=150&lines=Si+Anak+Informatika+%F0%9F%92%BB+Satria+Bagas+Sejati;Ngoding+Dari+Nol%2C+Mimpi+Setinggi+Langit+%F0%9F%9A%80;Welcome+to+My+Semester+1+Journey+%F0%9F%94%A5;Slay+Every+Bug+%2C+Build+The+Future+%E2%9C%A8)](https://git.io/typing-svg)
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Semester%201-FF6B00?style=for-the-badge&logo=bookstack&logoColor=white" />
   <img src="https://img.shields.io/badge/Monorepo-2_Projects-00FFAB?style=for-the-badge&logo=stackblitz&logoColor=black" />
-  <img src=https://img.shields.io/badge/GEN_Z_CODER-FF00FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src=https://img.shields.io/badge/GEN_Z_CODER-FF00FF?style
   <img src="https://img.shields.io/badge/Status-On_Fire-FF00FF?style=for-the-badge&logo=fire&logoColor=white" />
 </p>
 
