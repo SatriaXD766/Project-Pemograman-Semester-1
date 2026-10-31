@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=400&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=130&lines=Satria+Bagas+Sejati+%7C+Si+Anak+Informatika+%F0%9F%92%BB;Ngoding+Dari+Nol%2C+Mimpi+Setinggi+Langit+%F0%9F%9A%80;Welcome+To+My+Semester+1+Collection+Fr+%F0%9F%94%A5;Slay+Every+Bug+%F0%9F%98%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=400&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=140&lines=Satria+Bagas+Sejati+%7C+Si+Anak+Informatika+%F0%9F%92%BB;Ngoding+Dari+Nol%2C+Mimpi+Setinggi+Langit+%F0%9F%9A%80;Welcome+To+My+Semester+1+Collection+Fr+%F0%9F%94%A5;Slay+Every+Bug+%F0%9F%98%8E)](https://git.io/typing-svg)
 
 [![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Semester](https://img.shields.io/badge/SEMESTER-1-FF6B00?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/)
