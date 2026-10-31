@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Semester%201-FF6B00?style=for-the-badge&logo=bookstack&logoColor=white" />
   <img src="https://img.shields.io/badge/Monorepo-2_Projects-00FFAB?style=for-the-badge&logo=stackblitz&logoColor=black" />
-  <img src=https://img.shields.io/badge/GEN_Z_CODER-FF00FF?style
+  <img src=https://img.shields.io/badge/GEN_Z_CODER-FF00FF?style=for-the-badge&logo=fire&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-On_Fire-FF00FF?style=for-the-badge&logo=fire&logoColor=white" />
 </p>
 
