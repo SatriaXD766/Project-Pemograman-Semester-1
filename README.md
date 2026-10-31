@@ -9,6 +9,7 @@
 [![Projects](https://img.shields.io/badge/PROJECTS-2_Completed-00FF00?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/)
 [![GenZ](https://img.shields.io/badge/GEN_Z_CODER-FF00FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/)
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
