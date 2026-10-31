@@ -1,24 +1,23 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Project%20Semester%201&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Satria%20Bagas%20Sejati%20%7C%20552012610009%20%7C%20Teknik%20Informatika&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=320&section=header&text=Project%20Semester%201&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Satria%20Bagas%20Sejati%20%E2%80%A2%20552012610009%20%E2%80%A2%20Teknik%20Informatika&descAlignY=62&descSize=20" />
 
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=850&height=130&lines=Si+Anak+Informatika+%F0%9F%92%BB+Satria+Bagas+Sejati;Ngoding+Dari+Nol%2C+Mimpi+Setinggi+Langit+%F0%9F%9A%80;Welcome+to+My+Semester+1+Journey+%F0%9F%94%A5;Slay+Every+Bug+%2C+Build+The+Future+%E2%9C%A8)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=400&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=140&lines=Satria+Bagas+Sejati+%7C+Si+Anak+Informatika+%F0%9F%92%BB;Ngoding+Dari+Nol%2C+Mimpi+Setinggi+Langit+%F0%9F%9A%80;Welcome+To+My+Semester+1+Collection+Fr+%F0%9F%94%A5;Slay+Every+Bug+%F0%9F%98%8E)](https://git.io/typing-svg)
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semester%201-FF6B00?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monorepo-2_Projects-00FFAB?style=for-the-badge&logo=stackblitz&logoColor=black" />
+  <img src="https://img.shields.io/badge/Status-On_Fire-FF00FF?style=for-the-badge&logo=fire&logoColor=white" />
+</p>
 
-[![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Semester](https://img.shields.io/badge/SEMESTER-1-FF6B00?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/)
-[![Projects](https://img.shields.io/badge/PROJECTS-2_Completed-00FF00?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/)
-[![GenZ](https://img.shields.io/badge/GEN_Z_CODER-FF00FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
----
-
-## 👤 Identitas
+## 👨‍💻 Identitas
 - **Nama:** Satria Bagas Sejati
 - **NIM:** 552012610009
 - **Prodi:** Teknik Informatika - Semester 1
+- **Universitas:** Cahaya Surya Kediri
 - **Repo:** `Project-Pemograman-Semester-1` - Kumpulan Project C++ dari Nol
 
 > "Ini bukan sekedar tugas, tapi jejak pertama saya di dunia developer."
